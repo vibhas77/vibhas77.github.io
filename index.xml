@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minimo</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on Minimo</description>
+    <title>Vibhas Goyal</title>
+    <link>http://www.vibhasgoyal.com/</link>
+    <description>Recent content on Vibhas Goyal</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.vibhasgoyal.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
