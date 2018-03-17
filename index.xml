@@ -5,10 +5,19 @@
     <link>http://www.vibhasgoyal.com/</link>
     <description>Recent content on Vibhas Goyal (*-*) Build the future.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Mar 2018 18:14:30 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 17 Mar 2018 18:16:11 +0530</lastBuildDate>
     
 	<atom:link href="http://www.vibhasgoyal.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://www.vibhasgoyal.com/about/</link>
+      <pubDate>Sat, 17 Mar 2018 18:16:11 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/about/</guid>
+      <description>This is the about page</description>
+    </item>
     
     <item>
       <title>Doing Things That Matter</title>

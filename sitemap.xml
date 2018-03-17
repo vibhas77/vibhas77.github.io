@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.vibhasgoyal.com/about/</loc>
+    <lastmod>2018-03-17T18:16:11+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.vibhasgoyal.com/posts/doing-things-that-matter/</loc>
     <lastmod>2018-03-17T18:14:30+05:30</lastmod>
   </url>
@@ -42,7 +47,7 @@
   
   <url>
     <loc>http://www.vibhasgoyal.com/</loc>
-    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
+    <lastmod>2018-03-17T18:16:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
