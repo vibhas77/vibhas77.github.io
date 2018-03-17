@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vibhas Goyal (*-*) Build the future.</title>
+    <title>Vibhas Goyal</title>
     <link>http://www.vibhasgoyal.com/</link>
-    <description>Recent content on Vibhas Goyal (*-*) Build the future.</description>
+    <description>Recent content on Vibhas Goyal</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 17 Mar 2018 18:16:11 +0530</lastBuildDate>
     
@@ -17,6 +17,39 @@
       
       <guid>http://www.vibhasgoyal.com/about/</guid>
       <description>This is the about page</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://www.vibhasgoyal.com/resume/</link>
+      <pubDate>Sat, 17 Mar 2018 20:25:03 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/resume/</guid>
+      <description>Please download my resume from here :</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.vibhasgoyal.com/contact/</link>
+      <pubDate>Sat, 17 Mar 2018 20:24:41 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/contact/</guid>
+      <description>Please contact me at vibhas777@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>The Hardest Thing Ever</title>
+      <link>http://www.vibhasgoyal.com/posts/the-hardest-thing-ever/</link>
+      <pubDate>Sat, 17 Mar 2018 20:22:39 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/posts/the-hardest-thing-ever/</guid>
+      <description>The hardest thing ever is to never forget your why.
+the harder thing is to not get distracted.
+Why are you doing what you doing? And for what , for whom.
+This is hard. Other noises of your environment will make you move away from that.
+Because they don&amp;rsquo;t care for your why.
+There is nothing that they will gain from it.
+Cheers 😃</description>
     </item>
     
     <item>
