@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.vibhasgoyal.com/posts/doing-things-that-matter/</loc>
+    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.vibhasgoyal.com/posts/focus/</loc>
+    <lastmod>2018-03-17T18:10:29+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.vibhasgoyal.com/authors/</loc>
     <priority>0</priority>
   </url>
@@ -13,12 +23,26 @@
   </url>
   
   <url>
+    <loc>http://www.vibhasgoyal.com/posts/</loc>
+    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.vibhasgoyal.com/tags/productivity/</loc>
+    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.vibhasgoyal.com/tags/</loc>
+    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.vibhasgoyal.com/</loc>
+    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
     <priority>0</priority>
   </url>
   
