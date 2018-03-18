@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>http://www.vibhasgoyal.com/resume/</loc>
-    <lastmod>2018-03-17T20:25:03+05:30</lastmod>
+    <loc>http://www.vibhasgoyal.com/contact/</loc>
+    <lastmod>2018-03-17T20:24:41+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.vibhasgoyal.com/contact/</loc>
-    <lastmod>2018-03-17T20:24:41+05:30</lastmod>
+    <loc>http://www.vibhasgoyal.com/resume/</loc>
+    <lastmod>2018-03-17T20:25:03+05:30</lastmod>
   </url>
   
   <url>
@@ -39,6 +39,12 @@
   
   <url>
     <loc>http://www.vibhasgoyal.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.vibhasgoyal.com/page/</loc>
+    <lastmod>2018-03-17T18:16:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   

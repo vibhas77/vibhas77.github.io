@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Vibhas Goyal</title>
+    <link>http://www.vibhasgoyal.com/page/</link>
+    <description>Recent content in Pages on Vibhas Goyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Mar 2018 18:16:11 +0530</lastBuildDate>
+    
+	<atom:link href="http://www.vibhasgoyal.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.vibhasgoyal.com/about/</link>
+      <pubDate>Sat, 17 Mar 2018 18:16:11 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/about/</guid>
+      <description>This is the about page</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.vibhasgoyal.com/contact/</link>
+      <pubDate>Sat, 17 Mar 2018 20:24:41 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/contact/</guid>
+      <description>Please contact me at vibhas777@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://www.vibhasgoyal.com/resume/</link>
+      <pubDate>Sat, 17 Mar 2018 20:25:03 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/resume/</guid>
+      <description>Please download my resume from here :</description>
+    </item>
+    
+  </channel>
+</rss>
