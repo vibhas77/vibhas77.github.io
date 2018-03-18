@@ -43,12 +43,33 @@
   </url>
   
   <url>
+    <loc>http://www.vibhasgoyal.com/posts/case-studies-tom-ellsworth/</loc>
+    <lastmod>2017-08-04T13:39:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.vibhasgoyal.com/posts/employee-equity/</loc>
+    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.vibhasgoyal.com/posts/cost-leadership-differentiation-profit-models/</loc>
+    <lastmod>2017-04-02T12:50:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.vibhasgoyal.com/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.vibhasgoyal.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.vibhasgoyal.com/tags/equity/</loc>
+    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,8 +92,14 @@
   </url>
   
   <url>
+    <loc>http://www.vibhasgoyal.com/tags/startup/</loc>
+    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.vibhasgoyal.com/tags/</loc>
-    <lastmod>2018-03-17T18:14:30+05:30</lastmod>
+    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
