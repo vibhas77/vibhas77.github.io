@@ -37,5 +37,15 @@
       <description>Please download my resume from here :</description>
     </item>
     
+    <item>
+      <title>Favourite Content</title>
+      <link>http://www.vibhasgoyal.com/favourite-content/</link>
+      <pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate>
+      
+      <guid>http://www.vibhasgoyal.com/favourite-content/</guid>
+      <description>This page is a collection of all my favourite content from other websites which I wish to bookmark here.
+In a way this is my personal awesome list of internet content.</description>
+    </item>
+    
   </channel>
 </rss>
