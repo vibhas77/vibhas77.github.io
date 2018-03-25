@@ -16,7 +16,8 @@
       <pubDate>Sat, 17 Mar 2018 18:16:11 +0530</pubDate>
       
       <guid>http://www.vibhasgoyal.com/about/</guid>
-      <description>This is the about page</description>
+      <description>This is the about page
+{{&amp;lt; disqus &amp;gt;}}</description>
     </item>
     
     <item>
