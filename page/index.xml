@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Vigo&#39;s Blog</title>
-    <link>http://www.vibhasgoyal.com/page/</link>
+    <link>https://www.vibhasgoyal.com/page/</link>
     <description>Recent content in Pages on Vigo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 17 Mar 2018 18:16:11 +0530</lastBuildDate>
     
-	<atom:link href="http://www.vibhasgoyal.com/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.vibhasgoyal.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.vibhasgoyal.com/about/</link>
+      <link>https://www.vibhasgoyal.com/about/</link>
       <pubDate>Sat, 17 Mar 2018 18:16:11 +0530</pubDate>
       
-      <guid>http://www.vibhasgoyal.com/about/</guid>
+      <guid>https://www.vibhasgoyal.com/about/</guid>
       <description>This is the about page</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.vibhasgoyal.com/contact/</link>
+      <link>https://www.vibhasgoyal.com/contact/</link>
       <pubDate>Sat, 17 Mar 2018 20:24:41 +0530</pubDate>
       
-      <guid>http://www.vibhasgoyal.com/contact/</guid>
+      <guid>https://www.vibhasgoyal.com/contact/</guid>
       <description>Please contact me at vibhas777@gmail.com</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://www.vibhasgoyal.com/resume/</link>
+      <link>https://www.vibhasgoyal.com/resume/</link>
       <pubDate>Sat, 17 Mar 2018 20:25:03 +0530</pubDate>
       
-      <guid>http://www.vibhasgoyal.com/resume/</guid>
+      <guid>https://www.vibhasgoyal.com/resume/</guid>
       <description>Please download my resume from here :
 Resume</description>
     </item>
     
     <item>
       <title>Favourite Content</title>
-      <link>http://www.vibhasgoyal.com/favourite-content/</link>
+      <link>https://www.vibhasgoyal.com/favourite-content/</link>
       <pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate>
       
-      <guid>http://www.vibhasgoyal.com/favourite-content/</guid>
+      <guid>https://www.vibhasgoyal.com/favourite-content/</guid>
       <description> This page is a collection of all my favourite content from other websites which I wish to bookmark here.
 In a way this is my personal awesome list of internet content.
 Philosophy / Psychology  Jordan B Peterson &amp;amp; website The Rational Male Illimitable Men Farnam Street Blog Ed Latimore Illacertus YT Channel TED-Ed FightMediocrity  Entrepreneurship  Valutainment &amp;amp; Patrick Bet David [Gary Vee] WallStreetPlayboys Budgets are sexy  Technology  MKBHD Linus Tech Tips  Health  Athlean-X Youtube Channel [Alexander Juan Cortes] PictureFit ASAPScience  </description>
@@ -51,10 +51,10 @@ Philosophy / Psychology  Jordan B Peterson &amp;amp; website The Rational Male I
     
     <item>
       <title>My Twitter Profile</title>
-      <link>http://www.vibhasgoyal.com/twitter-feed/</link>
+      <link>https://www.vibhasgoyal.com/twitter-feed/</link>
       <pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate>
       
-      <guid>http://www.vibhasgoyal.com/twitter-feed/</guid>
+      <guid>https://www.vibhasgoyal.com/twitter-feed/</guid>
       <description>Tweets by TwitterDev</description>
     </item>
     
