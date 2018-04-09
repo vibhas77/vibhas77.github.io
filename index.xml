@@ -224,5 +224,15 @@ No other IIT has it like ours.
 Although I am not going to declare it the best branch ever.</description>
     </item>
     
+    <item>
+      <title>HungerTorrent : Food delivery system</title>
+      <link>https://www.vibhasgoyal.com/posts/hungertorrent/</link>
+      <pubDate>Sun, 13 Mar 2016 00:39:54 +0530</pubDate>
+      
+      <guid>https://www.vibhasgoyal.com/posts/hungertorrent/</guid>
+      <description>Introduction to HungerTorrent HungerTorrent is a social food delivery system for easy delivery especially in remote areas operating at IIT Hyderabad.
+We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery. Problem The food problem at ODF, IITH is quite genuine.</description>
+    </item>
+    
   </channel>
 </rss>
