@@ -2,52 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Vigo&#39;s Blog</title>
-    <link>https://www.vibhasgoyal.com/page/</link>
+    <link>https://vibhasgoyal.com/page/</link>
     <description>Recent content in Pages on Vigo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Mar 2018 18:16:11 +0530</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Mar 2016 17:17:05 +0530</lastBuildDate>
     
-	<atom:link href="https://www.vibhasgoyal.com/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vibhasgoyal.com/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://www.vibhasgoyal.com/about/</link>
-      <pubDate>Sat, 17 Mar 2018 18:16:11 +0530</pubDate>
-      
-      <guid>https://www.vibhasgoyal.com/about/</guid>
-      <description>Hi, I am Vigo (Vibhas Goyal).
-I am currently studying at IIT Hyderabad, B.Tech in Engineering Science and Computer Science ( 2014 - 2018 ).
-This is the about page and for me, this page can be considered as one of the most difficult page to write because it involves writing about my objective self.
-Thus I would begin my introduction with some of the facts related to me.
-I wish to become an entrepreneur and start my own profitable and scalable business.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://www.vibhasgoyal.com/contact/</link>
-      <pubDate>Sat, 17 Mar 2018 20:24:41 +0530</pubDate>
-      
-      <guid>https://www.vibhasgoyal.com/contact/</guid>
-      <description>Please contact me at vibhas777@gmail.com</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://www.vibhasgoyal.com/resume/</link>
-      <pubDate>Sat, 17 Mar 2018 20:25:03 +0530</pubDate>
-      
-      <guid>https://www.vibhasgoyal.com/resume/</guid>
-      <description>Please download my resume from here :
-Resume</description>
-    </item>
     
     <item>
       <title>Favourite Content</title>
-      <link>https://www.vibhasgoyal.com/favourite-content/</link>
-      <pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate>
+      <link>https://vibhasgoyal.com/page/fav-content/</link>
+      <pubDate>Sat, 19 Mar 2016 17:17:05 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/favourite-content/</guid>
+      <guid>https://vibhasgoyal.com/page/fav-content/</guid>
       <description> This page is a collection of all my favourite content creators from other websites which I wish to bookmark here.
 I also regularly tweet about the content that I consume online and that I believe would help others under the hastag #TwitterBookmarking.
 In a way this is my personal awesome list of internet content creators ( List not in any order of preference).
@@ -56,11 +25,43 @@ Philosophy / Psychology  Jordan B Peterson &amp;amp; website The Rational Male I
     
     <item>
       <title>My Twitter Profile</title>
-      <link>https://www.vibhasgoyal.com/twitter-feed/</link>
-      <pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate>
+      <link>https://vibhasgoyal.com/page/twitter-feed/</link>
+      <pubDate>Sat, 19 Mar 2016 17:17:05 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/twitter-feed/</guid>
+      <guid>https://vibhasgoyal.com/page/twitter-feed/</guid>
       <description>Tweets by TwitterDev</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://vibhasgoyal.com/page/resume/</link>
+      <pubDate>Thu, 17 Mar 2016 20:25:03 +0530</pubDate>
+      
+      <guid>https://vibhasgoyal.com/page/resume/</guid>
+      <description>Please download my resume from here :
+Resume</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vibhasgoyal.com/page/contact/</link>
+      <pubDate>Thu, 17 Mar 2016 20:24:41 +0530</pubDate>
+      
+      <guid>https://vibhasgoyal.com/page/contact/</guid>
+      <description>Please contact me at vibhas777@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vibhasgoyal.com/page/about/</link>
+      <pubDate>Thu, 17 Mar 2016 18:16:11 +0530</pubDate>
+      
+      <guid>https://vibhasgoyal.com/page/about/</guid>
+      <description>Hi, I am Vigo (Vibhas Goyal).
+I am currently studying at IIT Hyderabad, B.Tech in Engineering Science and Computer Science ( 2014 - 2018 ).
+This is the about page and for me, this page can be considered as one of the most difficult page to write because it involves writing about my objective self.
+Thus I would begin my introduction with some of the facts related to me.
+I wish to become an entrepreneur and start my own profitable and scalable business.</description>
     </item>
     
   </channel>

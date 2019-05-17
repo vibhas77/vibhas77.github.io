@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Startup on Vigo&#39;s Blog</title>
-    <link>https://www.vibhasgoyal.com/tags/startup/</link>
-    <description>Recent content in Startup on Vigo&#39;s Blog</description>
+    <title>startup on Vigo&#39;s Blog</title>
+    <link>https://vibhasgoyal.com/tags/startup/</link>
+    <description>Recent content in startup on Vigo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2017 10:28:34 +0530</lastBuildDate>
     
-	<atom:link href="https://www.vibhasgoyal.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vibhasgoyal.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Business Lesson: Employee Equity</title>
-      <link>https://www.vibhasgoyal.com/posts/employee-equity/</link>
+      <link>https://vibhasgoyal.com/posts/employee-equity/</link>
       <pubDate>Thu, 06 Jul 2017 10:28:34 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/posts/employee-equity/</guid>
+      <guid>https://vibhasgoyal.com/posts/employee-equity/</guid>
       <description>Business Lesson : Pay equity to employees more than investor.
 First of all, I will start that I got to learn many things yesterday about equity.
 Investors are important. ( Maybe ) but they are not active in the business.
@@ -26,10 +27,10 @@ Vesting is an important contract.</description>
     
     <item>
       <title>A Business is like a Farm : The Farm Analogy</title>
-      <link>https://www.vibhasgoyal.com/posts/a-business-is-like-a-farm-analogy/</link>
+      <link>https://vibhasgoyal.com/posts/a-business-is-like-a-farm-analogy/</link>
       <pubDate>Sat, 21 Jan 2017 21:39:52 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/posts/a-business-is-like-a-farm-analogy/</guid>
+      <guid>https://vibhasgoyal.com/posts/a-business-is-like-a-farm-analogy/</guid>
       <description>A business is just like a farm.
 Infact farming is a business that is easy for most people to understand.
 You have to take care of it everyday.
@@ -42,10 +43,10 @@ You have to take out the weeds.</description>
     
     <item>
       <title>HungerTorrent : Food delivery system</title>
-      <link>https://www.vibhasgoyal.com/posts/hungertorrent/</link>
+      <link>https://vibhasgoyal.com/posts/hungertorrent/</link>
       <pubDate>Sun, 13 Mar 2016 00:39:54 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/posts/hungertorrent/</guid>
+      <guid>https://vibhasgoyal.com/posts/hungertorrent/</guid>
       <description>Introduction to HungerTorrent HungerTorrent is a social food delivery system for easy delivery especially in remote areas operating at IIT Hyderabad.
 We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery. Problem The food problem at ODF, IITH is quite genuine.</description>
     </item>

@@ -2,56 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vigo&#39;s Blog</title>
-    <link>https://www.vibhasgoyal.com/tags/</link>
+    <link>https://vibhasgoyal.com/tags/</link>
     <description>Recent content in Tags on Vigo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 02 Apr 2018 19:26:25 +0530</lastBuildDate>
     
-	<atom:link href="https://www.vibhasgoyal.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vibhasgoyal.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Communication</title>
-      <link>https://www.vibhasgoyal.com/tags/communication/</link>
+      <link>https://vibhasgoyal.com/tags/communication/</link>
       <pubDate>Mon, 02 Apr 2018 19:26:25 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Equity</title>
-      <link>https://www.vibhasgoyal.com/tags/equity/</link>
-      <pubDate>Thu, 06 Jul 2017 10:28:34 +0530</pubDate>
-      
-      <guid>https://www.vibhasgoyal.com/tags/equity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IITH</title>
-      <link>https://www.vibhasgoyal.com/tags/iith/</link>
-      <pubDate>Thu, 16 Jun 2016 20:12:22 +0530</pubDate>
-      
-      <guid>https://www.vibhasgoyal.com/tags/iith/</guid>
+      <guid>https://vibhasgoyal.com/tags/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>https://www.vibhasgoyal.com/tags/productivity/</link>
+      <link>https://vibhasgoyal.com/tags/productivity/</link>
       <pubDate>Sun, 25 Mar 2018 16:20:28 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/tags/productivity/</guid>
+      <guid>https://vibhasgoyal.com/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Startup</title>
-      <link>https://www.vibhasgoyal.com/tags/startup/</link>
+      <title>equity</title>
+      <link>https://vibhasgoyal.com/tags/equity/</link>
       <pubDate>Thu, 06 Jul 2017 10:28:34 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/tags/startup/</guid>
+      <guid>https://vibhasgoyal.com/tags/equity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://vibhasgoyal.com/tags/startup/</link>
+      <pubDate>Thu, 06 Jul 2017 10:28:34 +0530</pubDate>
+      
+      <guid>https://vibhasgoyal.com/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IITH</title>
+      <link>https://vibhasgoyal.com/tags/iith/</link>
+      <pubDate>Thu, 16 Jun 2016 20:12:22 +0530</pubDate>
+      
+      <guid>https://vibhasgoyal.com/tags/iith/</guid>
       <description></description>
     </item>
     

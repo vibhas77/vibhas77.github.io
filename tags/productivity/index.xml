@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on Vigo&#39;s Blog</title>
-    <link>https://www.vibhasgoyal.com/tags/productivity/</link>
+    <link>https://vibhasgoyal.com/tags/productivity/</link>
     <description>Recent content in Productivity on Vigo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Sun, 25 Mar 2018 16:20:28 +0530</lastBuildDate>
     
-	<atom:link href="https://www.vibhasgoyal.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vibhasgoyal.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Speed vs Velocity : My Personal Experience</title>
-      <link>https://www.vibhasgoyal.com/posts/speed-velocity-experience/</link>
+      <link>https://vibhasgoyal.com/posts/speed-velocity-experience/</link>
       <pubDate>Sun, 25 Mar 2018 16:20:28 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/posts/speed-velocity-experience/</guid>
+      <guid>https://vibhasgoyal.com/posts/speed-velocity-experience/</guid>
       <description>Hi, I recently read an article by Shane Parrish of the Farnam Street Blog that mentioned the importance of choosing velocity over speed.
 This post actually was a nice idea and I really felt that something more could be learnt from it.
 I would highly recommend you to read the article linked below
@@ -25,10 +26,10 @@ I have had my own share of personal experience with this analysis of focus and w
     
     <item>
       <title>Doing Things That Matter</title>
-      <link>https://www.vibhasgoyal.com/posts/doing-things-that-matter/</link>
+      <link>https://vibhasgoyal.com/posts/doing-things-that-matter/</link>
       <pubDate>Sat, 17 Mar 2018 18:14:30 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/posts/doing-things-that-matter/</guid>
+      <guid>https://vibhasgoyal.com/posts/doing-things-that-matter/</guid>
       <description>All of us are given approximately the same time.
 Then why do some people tend to deliver better results than others?
 Simply because they do things that matter the most to them and ignore the rest.
@@ -39,10 +40,10 @@ To-do list is often a lie. Some tasks are more important than others.</descript
     
     <item>
       <title>Focus: X divided by infinity is zero</title>
-      <link>https://www.vibhasgoyal.com/posts/focus/</link>
+      <link>https://vibhasgoyal.com/posts/focus/</link>
       <pubDate>Sat, 17 Mar 2018 18:10:29 +0530</pubDate>
       
-      <guid>https://www.vibhasgoyal.com/posts/focus/</guid>
+      <guid>https://vibhasgoyal.com/posts/focus/</guid>
       <description>A small and relatively simple concept that I have learned over the last 2 years is this.
 &amp;rdquo; ( X / Infinity ) = Zero &amp;ldquo; This is true in all the cases of real life.
 Effort or time divided into many different , unrelated areas of focus would result in a very small output where as concentrated efforts would lead to more and more output.

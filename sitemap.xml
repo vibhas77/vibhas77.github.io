@@ -3,161 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.vibhasgoyal.com/about/</loc>
-    <lastmod>2018-03-17T18:16:11+05:30</lastmod>
+    <loc>https://vibhasgoyal.com/tags/communication/</loc>
+    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/contact/</loc>
-    <lastmod>2018-03-17T20:24:41+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/resume/</loc>
-    <lastmod>2018-03-17T20:25:03+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/posts/notes-on-communication/</loc>
+    <loc>https://vibhasgoyal.com/posts/notes-on-communication/</loc>
     <lastmod>2018-04-02T19:26:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/steve-blank/</loc>
+    <loc>https://vibhasgoyal.com/posts/</loc>
+    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/tags/</loc>
+    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/</loc>
+    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/posts/steve-blank/</loc>
     <lastmod>2018-04-01T16:46:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/speed-velocity-experience/</loc>
+    <loc>https://vibhasgoyal.com/tags/productivity/</loc>
+    <lastmod>2018-03-25T16:20:28+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/posts/speed-velocity-experience/</loc>
     <lastmod>2018-03-25T16:20:28+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/favourite-content/</loc>
-    <lastmod>2018-03-19T17:17:05+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/twitter-feed/</loc>
-    <lastmod>2018-03-19T17:17:05+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/books-club/week-1-principles/</loc>
+    <loc>https://vibhasgoyal.com/books-club/week-1-principles/</loc>
     <lastmod>2018-03-19T16:26:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/books-club/</loc>
+    <loc>https://vibhasgoyal.com/books-club/</loc>
     <lastmod>2018-03-18T14:53:57+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/the-hardest-thing-ever/</loc>
+    <loc>https://vibhasgoyal.com/posts/the-hardest-thing-ever/</loc>
     <lastmod>2018-03-17T20:22:39+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/doing-things-that-matter/</loc>
+    <loc>https://vibhasgoyal.com/posts/doing-things-that-matter/</loc>
     <lastmod>2018-03-17T18:14:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/focus/</loc>
+    <loc>https://vibhasgoyal.com/posts/focus/</loc>
     <lastmod>2018-03-17T18:10:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/case-studies-tom-ellsworth/</loc>
+    <loc>https://vibhasgoyal.com/posts/case-studies-tom-ellsworth/</loc>
     <lastmod>2017-08-04T13:39:02+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/employee-equity/</loc>
+    <loc>https://vibhasgoyal.com/posts/employee-equity/</loc>
     <lastmod>2017-07-06T10:28:34+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/cost-leadership-differentiation-profit-models/</loc>
+    <loc>https://vibhasgoyal.com/tags/equity/</loc>
+    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/tags/startup/</loc>
+    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/posts/cost-leadership-differentiation-profit-models/</loc>
     <lastmod>2017-04-02T12:50:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/a-business-is-like-a-farm-analogy/</loc>
+    <loc>https://vibhasgoyal.com/posts/a-business-is-like-a-farm-analogy/</loc>
     <lastmod>2017-01-21T21:39:52+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/engineering-science/</loc>
+    <loc>https://vibhasgoyal.com/tags/iith/</loc>
+    <lastmod>2016-06-16T20:12:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/posts/engineering-science/</loc>
     <lastmod>2016-06-16T20:12:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/posts/hungertorrent/</loc>
+    <loc>https://vibhasgoyal.com/page/fav-content/</loc>
+    <lastmod>2016-03-19T17:17:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/page/twitter-feed/</loc>
+    <lastmod>2016-03-19T17:17:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/page/</loc>
+    <lastmod>2016-03-19T17:17:05+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/page/resume/</loc>
+    <lastmod>2016-03-17T20:25:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/page/contact/</loc>
+    <lastmod>2016-03-17T20:24:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/page/about/</loc>
+    <lastmod>2016-03-17T18:16:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vibhasgoyal.com/posts/hungertorrent/</loc>
     <lastmod>2016-03-13T00:39:54+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.vibhasgoyal.com/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/tags/communication/</loc>
-    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/tags/equity/</loc>
-    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/tags/iith/</loc>
-    <lastmod>2016-06-16T20:12:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/page/</loc>
-    <lastmod>2018-03-17T18:16:11+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/posts/</loc>
-    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/tags/productivity/</loc>
-    <lastmod>2018-03-25T16:20:28+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/tags/startup/</loc>
-    <lastmod>2017-07-06T10:28:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/tags/</loc>
-    <lastmod>2018-04-02T19:26:25+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.vibhasgoyal.com/</loc>
-    <lastmod>2018-03-17T18:16:11+05:30</lastmod>
+    <loc>https://vibhasgoyal.com/categories/</loc>
     <priority>0</priority>
   </url>
   
