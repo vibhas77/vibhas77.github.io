@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>startup on Vigo&#39;s Blog</title>
@@ -47,8 +47,10 @@ You have to take out the weeds.</description>
       <pubDate>Sun, 13 Mar 2016 00:39:54 +0530</pubDate>
       
       <guid>https://vibhasgoyal.com/posts/hungertorrent/</guid>
-      <description>Introduction to HungerTorrent HungerTorrent is a social food delivery system for easy delivery especially in remote areas operating at IIT Hyderabad.
-We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery. Problem The food problem at ODF, IITH is quite genuine.</description>
+      <description>We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery.
+We setup the website at hungertorrent.xyz ( Cheap Domain :P )
+We started the program, a day after we attended AugustFest
+Now the static website has been hosted at http://hungertorrent.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vigo&#39;s Blog</title>
@@ -20,6 +20,18 @@
       <description>It has truly been a long time since I have read any article as impactful to me as this article.
 Saving this article for the rest of my life on this blog.
 https://theamericanscholar.org/solitude-and-leadership/</description>
+    </item>
+    
+    <item>
+      <title>Power</title>
+      <link>https://vibhasgoyal.com/posts/power/</link>
+      <pubDate>Sat, 18 May 2019 14:00:50 +0530</pubDate>
+      
+      <guid>https://vibhasgoyal.com/posts/power/</guid>
+      <description>Power is the most precious form of energy. A place where it means it all. Respect, Pride, Intelligence, Wisdom, Influence Wealth, Work, Time, Health, Energy. Almost everything ( 99.9999 % ) of what we humans do is associated with it in one way or another.
+Indeed it is a tool of gods. The one that we all worship.
+Without power, people are depressed. And for a very good reason.
+Flow of Power  All flow of power is internal first for humans, only then it manifests itself around them.</description>
     </item>
     
     <item>
@@ -54,7 +66,6 @@ For we as a society, have an entirely new tech going to come which is AI.</descr
       
       <guid>https://vibhasgoyal.com/posts/notes-on-communication/</guid>
       <description>&lt;p&gt;As I was watching Ajay Banga&amp;rsquo;s interview and Ayn Rand&amp;rsquo;s interview today (videos embedded at the end of article), I realized something that should be considered very important :&lt;/p&gt;
-
 &lt;p&gt;They were very good at expressing their views and opinions. They were good at communicating effectively. They were communicating as effectively as they could to avoid any misunderstanding.&lt;/p&gt;</description>
     </item>
     
@@ -65,10 +76,7 @@ For we as a society, have an entirely new tech going to come which is AI.</descr
       
       <guid>https://vibhasgoyal.com/posts/steve-blank/</guid>
       <description>&lt;p&gt;Interesting Podcasts by Steve Blank. Please listen if you are interested to learn about Entrepreneurship.&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;
-  src=&#34;https://w.soundcloud.com/player/?url=https://soundcloud.com/innovatorsradio/s1e5-steve-blank-lean-startup&#34;&gt;
-&lt;/iframe&gt;</description>
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
@@ -80,7 +88,7 @@ For we as a society, have an entirely new tech going to come which is AI.</descr
       <description>Hi, I recently read an article by Shane Parrish of the Farnam Street Blog that mentioned the importance of choosing velocity over speed.
 This post actually was a nice idea and I really felt that something more could be learnt from it.
 I would highly recommend you to read the article linked below
-Speed vs Velocity
+[Speed vs Velocity] (https://www.fs.blog/2018/03/speed-velocity/)
 I have had my own share of personal experience with this analysis of focus and would like to share it.</description>
     </item>
     
@@ -131,9 +139,9 @@ To-do list is often a lie. Some tasks are more important than others.</descript
       
       <guid>https://vibhasgoyal.com/posts/focus/</guid>
       <description>A small and relatively simple concept that I have learned over the last 2 years is this.
-&amp;rdquo; ( X / Infinity ) = Zero &amp;ldquo; This is true in all the cases of real life.
 Effort or time divided into many different , unrelated areas of focus would result in a very small output where as concentrated efforts would lead to more and more output.
-If a person, puts his effort into many unrelated fields, it leads to a constant state of unhappiness and confusion.</description>
+If a person, puts his effort into many unrelated fields, it leads to a constant state of unhappiness and confusion.
+If a business sells many different varieties of products, it might find difficulty in selling their products under the same brand.</description>
     </item>
     
     <item>
@@ -169,11 +177,9 @@ Vesting is an important contract.</description>
       
       <guid>https://vibhasgoyal.com/posts/cost-leadership-differentiation-profit-models/</guid>
       <description>So Today morning , All I had to do was attend class.
-This class was taught to us ( Minor in Entrepreneurship ) by Srini Addepalli ( Founder, GlobalGyan ) 
-I really enjoyed his teachings and found them to be very useful.
+This class was taught to us ( Minor in Entrepreneurship ) by Srini Addepalli ( Founder, GlobalGyan) I really enjoyed his teachings and found them to be very useful.
 Here I would like to share some of my notes with you.
-Cost Leadership and Differentiation There really are two kind of pricing and cost models
-Cost Leadership :</description>
+Cost Leadership : The company reduces the cost of the product while selling the product at the average price.</description>
     </item>
     
     <item>
@@ -199,9 +205,10 @@ You have to take out the weeds.</description>
       
       <guid>https://vibhasgoyal.com/posts/engineering-science/</guid>
       <description>Hi, I am Vibhas, studying Engineering Science at IITH ( 2014 batch ). So let me introduce you to our branch.
-( I am writing this down here as some of the content on official website has not been updated yet ) Introduction / Course Description Beyond doubt, Engineering science is a very special branch in IIT Hyderabad.
+( I am writing this down here as some of the content on official website has not been updated yet )
 No other IIT has it like ours.
-Although I am not going to declare it the best branch ever.</description>
+Although I am not going to declare it the best branch ever. But it&amp;rsquo;s quite close to that.
+B.Tech. in Engineering Science, at IIT Hyderabad,is a unique program offered in India for the first time.</description>
     </item>
     
     <item>
@@ -210,8 +217,10 @@ Although I am not going to declare it the best branch ever.</description>
       <pubDate>Sun, 13 Mar 2016 00:39:54 +0530</pubDate>
       
       <guid>https://vibhasgoyal.com/posts/hungertorrent/</guid>
-      <description>Introduction to HungerTorrent HungerTorrent is a social food delivery system for easy delivery especially in remote areas operating at IIT Hyderabad.
-We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery. Problem The food problem at ODF, IITH is quite genuine.</description>
+      <description>We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery.
+We setup the website at hungertorrent.xyz ( Cheap Domain :P )
+We started the program, a day after we attended AugustFest
+Now the static website has been hosted at http://hungertorrent.</description>
     </item>
     
     <item>
@@ -220,7 +229,7 @@ We delivered food to IITH students and the food was delivered by the students of
       <pubDate>Thu, 19 Mar 2015 17:17:05 +0530</pubDate>
       
       <guid>https://vibhasgoyal.com/page/fav-content/</guid>
-      <description> This page is a collection of all my favourite content creators from other websites which I wish to bookmark here.
+      <description>This page is a collection of all my favourite content creators from other websites which I wish to bookmark here.
 I also regularly tweet about the content that I consume online and that I believe would help others under the hastag #TwitterBookmarking.
 In a way this is my personal awesome list of internet content creators ( List not in any order of preference).
 Philosophy / Psychology  Jordan B Peterson (YT Channel &amp;amp; Website) The Rational Male Illimitable Men Farnam Street Blog Ed Latimore Illacertus YT Channel TED-Ed FightMediocrity  Entrepreneurship  Valutainment &amp;amp; Patrick Bet David WallStreetPlayboys  Technology  MKBHD Linus Tech Tips Dave2D Google Developers Youtube Hacker News  Health  Athlean-X Youtube Channel [Alexander Juan Cortes] PictureFit ASAPScience  </description>
